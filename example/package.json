@@ -1,8 +1,7 @@
 {
   "name": "slrt-wallet-adapter-example",
   "homepage": ".",
-  "version": "0.0.0",
-  "private": true,
+  "version": "0.0.1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
