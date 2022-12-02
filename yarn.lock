@@ -1527,10 +1527,10 @@
   dependencies:
     buffer "~6.0.3"
 
-"@solarti/web3.js@^0.1.1-beta":
-  version "0.1.1-beta"
-  resolved "https://registry.yarnpkg.com/@solarti/web3.js/-/web3.js-0.1.1-beta.tgz#6c66323f2f0c49e18b67f545a6f8144e6a56923c"
-  integrity sha512-7/dOBHNiHhnTs8tD8pr4uaMz2RGEqA5pF6mqBSe+X2qoKS+5bw35aKTykHkiO2/E9WV4K9xoZSkX71k8dhp7DA==
+"@solarti/web3.js@^0.1.5-rc.1":
+  version "0.1.5-rc.1"
+  resolved "https://registry.yarnpkg.com/@solarti/web3.js/-/web3.js-0.1.5-rc.1.tgz#a12ce58bd8b0626ce063393009ec328b099fa1d3"
+  integrity sha512-wssELhJ+yKqoRMCvZ/94sbf5eCiJvWcCUb0VgaNw7qCSo9WNR8OVVyUMwn8b8cDU7DhSofQwAF/4faiB/tXlHg==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@noble/ed25519" "^1.7.0"

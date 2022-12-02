@@ -20,8 +20,8 @@ function App(): React.ReactElement {
     setLogs((logs) => [...logs, log]);
   }
 
-  const network = clusterApiUrl('mainnet-slrt');
-  const [providerUrl, setProviderUrl] = useState('https://slrt.arcaps.com');
+  const network = clusterApiUrl('mainnet-mln');
+  const [providerUrl, setProviderUrl] = useState('https://app.arcaps.com');
   const connection = useMemo(() => new Connection(network), [network]);
   const urlWallet = useMemo(
     () => new Wallet(providerUrl, network),
