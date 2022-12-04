@@ -23,7 +23,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "@solarti/web3.js": "^0.1.5-rc.1"
+    "@solarti/web3.js": "0.1.5-rc.1"
   },
   "devDependencies": {
     "@solarti/web3.js": "^0.1.5-rc.1",
